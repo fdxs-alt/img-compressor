@@ -1,0 +1,16 @@
+{
+  "name": "img-compressor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fdxs-alt/img-compressor.git",
+  "author": "<kuba1207710@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "imagemin-svgo": "^9.0.0",
+    "svgo": "^2.3.0"
+  }
+}
